@@ -10,7 +10,7 @@ inicio
     x <- 2.5
     y <- 6
     a <- "teste"
-    l <- falso
+    l <- 0
 
     escreval (x)
     escreval (y)
