@@ -2,8 +2,8 @@ algoritmo "Condicional SE"
 
 inicio
 
-    se 1 > 2 faca
-        escreva("Oi")
+    se 3 > 2 faca
+      escreva ("Oi")
     fimse
 
 fimalgoritmo
